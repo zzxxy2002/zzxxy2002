@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiangyu aka SAM
 - 👀 I’m interested in programming and society
-- 🌱 I’m currently learning Degital Design and Operating System
+- 🌱 I’m currently learning Operating Systems and System Programming && Digital Design and Integrated Circuits && Optimization Models
 - 📫 Reach me at zzxxy2002 at gmail dot com
 
 <!---
