@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Xiangyu aka SAM
-- 👀 I’m interested in computer architecture, programming and machine learning
+- 👋 Hi, I’m Xiangyu aka **SAM**
 - 🧑‍🎓 I'm an undergraduate Student at UC Berkeley
+- 👀 I’m interested in computer architecture, programming and machine learning
+- 💪 I am a research assistant in SLICE lab, and I am making hardware run faster there.
+- 🧑‍🏫 I am a teaching assistant in Computer Architecture class at UCB (CS61C)
 - 🌱 I’m currently learning
 -   1. Warehouse Scale Computers
     2. Machine Learning for Hardware
@@ -8,8 +10,6 @@
     4. Numerical Linear Algebra
     5. Bringup Chip
     6. teaching CS
-- 💪 I am a research assistant in SLICE lab, and I am making hardware run faster there.
-- 🧑‍🏫 I am teaching Computer Architecture at UCB (CS61C)
 - 📫 Reach me at zzxxy2002 at gmail dot com
 
 <!---
