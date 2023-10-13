@@ -1,6 +1,12 @@
 - 👋 Hi, I’m Xiangyu aka SAM
-- 👀 I’m interested in computer architecture, programming and society
-- 🌱 I’m currently learning Operating Systems and System Programing && Digital Design and Integrated Circuits && Optimization Models
+- 👀 I’m interested in computer architecture, programming and machine learning
+- 🌱 I’m currently learning
+-   1. Warehouse Scale Computers
+    2. Machine Learning for Hardware
+    3. Compiler
+    4. Numerical Linear Algebra
+    5. Bringup Chip
+    6. teaching CS
 - 📫 Reach me at zzxxy2002 at gmail dot com
 
 <!---
