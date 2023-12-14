@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Xiangyu aka **SAM**
 - 🧑‍🎓 I'm an undergraduate Student at UC Berkeley
 - 👀 I’m interested in computer architecture, programming and machine learning
-- 💪 I am a research assistant in SLICE lab, and I am making hardware run faster there.
-- 🧑‍🏫 I am a teaching assistant in Computer Architecture class at UCB (CS61C)
+- 💪 I am a research assistant in SLICE lab, where I am making hardware run faster there.
+- 🧑‍🏫 I am a teaching assistant in Computer Architecture class at UCB (CS61C), where I am making my students understand machine structure better.
 - 🌱 I’m currently learning
 -   1. Warehouse Scale Computers
     2. Machine Learning for Hardware
