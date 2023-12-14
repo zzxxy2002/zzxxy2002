@@ -13,8 +13,8 @@
 - 🔨 I'm currect working on
 -   1. CEDA: Communication Based Estimation for DNN Accelerators
     2. DEAP: Design Space Exploration in Parallel Accelerators
-    3. IIARD: Large Language model for Accelerator Design
-    4. making LAPACK library
+    3. LLMad: Large Language model for Accelerator Design
+    4. etc
 - 📫 Reach me at zzxxy2002 at gmail dot com
 
 <!---
